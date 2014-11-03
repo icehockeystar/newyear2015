@@ -1,8 +1,13 @@
 body {
     font-size: 14px;
+    color: #000;
     background-image: url('../img/ny-bg2.jpg');
     background-repeat: no-repeat;
     background-position: center top;
+}
+
+blockquote {
+	font-size: 15px;
 }
 
 div.transparent {
@@ -11,8 +16,8 @@ div.transparent {
 }
 
 div.transparent95 {
-    opacity: 0.95;
-    filter: alpha(opacity=95); /* For IE8 and earlier */
+    opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
 }
 
 div.rounded {
@@ -31,3 +36,9 @@ div.rounded {
     -webkit-background-clip: content;  
     background-clip: content-box; 
 }
+
+a, a:hover {
+	color: #fff;
+}
+
+
