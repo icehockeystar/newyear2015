@@ -13,4 +13,23 @@
       <changefreq>yearly</changefreq>
       <priority>1.0</priority>
    </url>
+   <url>
+      <loc>http://www.novyj-god2015.ru/god-kozy-2015.html</loc>
+      <lastmod>2014-11-10</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://www.novyj-god2015.ru/novogodnie-multfilmy/index.html</loc>
+      <lastmod>2014-11-19</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://www.novyj-god2015.ru/novogodnie-multfilmy/zima-v-prostokvashino.html</loc>
+      <lastmod>2014-11-19</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   
 </urlset> 
