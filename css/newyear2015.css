@@ -37,8 +37,13 @@ div.rounded {
     background-clip: content-box; 
 }
 
-a, a:hover {
+div.carousel a, div.carousel a:hover {
 	color: #fff;
+}
+
+iframe.video-left {
+	float:left;
+	margin-right: 10px;
 }
 
 
