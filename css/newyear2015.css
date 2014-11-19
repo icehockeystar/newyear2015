@@ -20,7 +20,7 @@ div.transparent95 {
     filter: alpha(opacity=80); /* For IE8 and earlier */
 }
 
-div.rounded {
+.rounded {
     border-radius: 4px;
     border: 10px solid rgba(0,0,0,0.3);
 
