@@ -31,5 +31,10 @@
       <changefreq>yearly</changefreq>
       <priority>0.6</priority>
    </url>
-   
+   <url>
+      <loc>http://www.novyj-god2015.ru/novogodnie-multfilmy/dvenadcat-mesyacev.html</loc>
+      <lastmod>2014-11-19</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.6</priority>
+   </url>
 </urlset> 
