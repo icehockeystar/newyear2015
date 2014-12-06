@@ -46,4 +46,16 @@ iframe.video-left {
 	margin-right: 10px;
 }
 
+div.east-calendar {
+	width: 250px;
+	margin: 5px;
+	padding: 5px;
+	float: right;
+	border: 2px dashed gray;
+	border-radius: 4px;
+}
 
+div#east-calendar-sign {
+	font-size: 14px;
+	font-weight: bold;
+}
